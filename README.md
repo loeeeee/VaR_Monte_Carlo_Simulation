@@ -1,2 +1,2 @@
 # VaR_Monte_Carlo_Simulation
-Implementing three methods to calculate VaR
+Calculating Value at Risk (VaR) using Historical method, Variance-covariance method, and Monte Carlo simulation method.
